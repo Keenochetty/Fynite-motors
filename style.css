@@ -1,0 +1,12 @@
+.main-section-banner {
+    background-image: url("");
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+
+.main-section-banner-vid {
+    overflow: hidden;
+    align-items: center;
+
+}
